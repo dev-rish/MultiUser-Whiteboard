@@ -4,7 +4,7 @@ This is a simple whiteboard which can be used to draw on screen. The drawn conte
 
 ## Instructions
 
-1. Zip or clone the project
+1. Download Zip or clone the project
 2. Run `npm install`
 3. Run `npm start`
 4. Open browser and navigate to `localhost:3000` in multiple tabs / browser
